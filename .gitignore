@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+package/
+layer/
+*.zip
+.bedrock_agentcore.yaml
+.terraform/
+*.tfstate
+*.tfstate.backup
+payload.json

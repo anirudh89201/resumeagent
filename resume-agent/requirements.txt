@@ -1,0 +1,8 @@
+bedrock-agentcore
+langchain
+langchain-aws
+langchain-mcp-adapters
+python-dotenv
+boto3
+botocore
+uvicorn
